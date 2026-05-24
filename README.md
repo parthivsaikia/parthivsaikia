@@ -1,36 +1,76 @@
-# Hey, I'm Parthiv Saikia 
+---
+┌──────────────────────────────────────────────┐
+│  Parthiv Saikia                             │
+│  backend systems • terminal interfaces      │
+│  local-first software                       │
+└──────────────────────────────────────────────┘
 
-Open Source Enthusiast | Platform Engineering | Full Stack Development
+$ uptime
+
+Building backend systems, terminal interfaces,
+and local-first software using Go and Zig.
+
+Currently building:
+→ Enmasec
+  local-first TUI password manager
+
+Interests:
+→ Linux
+→ distributed systems
+→ Kubernetes
+→ cloud native tooling
+→ terminal UI design
+```
+
+<br>
+
+<p align="left">
+  <img
+    width="320"
+    src="https://media.tenor.com/2roX3uxz_68AAAAC/one-piece-luffy.gif"
+    alt="One Piece GIF"
+  />
+</p>
 
 ---
 
-## 🛠️ What I'm Building
+### Current
 
-Currently working on **[enmasec](https://github.com/parthivsaikia/enmasec)** — a local-first password manager focused on privacy and security.
-
-## What I'm Into
-
-- **Platform Engineering** — Learning the tools and practices to build scalable infrastructure
-- **Open Source** — Contributing to projects and building in public
-- **Full Stack Development** — Creating end-to-end solutions
-
-## 💻 Tech Stack
-
-**Languages:** TypeScript, Go  
-**Tools:** Neovim, Arch Linux, Git, Docker
+- Building **Enmasec**, a local-first TUI password manager
+- Exploring distributed systems and infrastructure tooling
+- Experimenting with terminal UI design and HTMX
 
 ---
 
-## Achievements
+### Selected Work
 
-<a href="https://cloud.layer5.io/user/7f3ad3d0-5460-4a55-a602-b4cc95a5417e?tab=badges&badge=first-design">
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" width="150px"/>
-</a>
+- **Enmasec**  
+  Local-first password manager built with Go and Bubble Tea
+
+- **Copacetic Arch Linux support**  
+  Added Arch Linux support to Copacetic
 
 ---
 
-## Connect
+### Stats
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_saikiaparthiv_)
+<p align="left">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&bg_color=00000000&title_color=888888&text_color=777777"
+  />
+</p>
 
+---
+
+### Links
+
+- Website → https://parthiv.me
+- GitHub → https://github.com/YOUR_USERNAME
+
+---
+
+```txt
+One bug at a time.
+```
 ---
