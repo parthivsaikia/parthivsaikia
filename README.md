@@ -42,7 +42,6 @@ Interests:
   Local-first password manager built with Go and Bubble Tea
 - **Copacetic Arch Linux support**  
   Added Arch Linux support to Copacetic
-- Various terminal tooling and infrastructure experiments
 
 ---
 
@@ -51,7 +50,7 @@ Interests:
 <p align="left">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&bg_color=00000000&title_color=888888&text_color=777777"
+    src="https://github-readme-stats.vercel.app/api?username=parthivsaikia&show_icons=false&hide_border=true&bg_color=00000000&title_color=888888&text_color=777777"
   />
 </p>
 
@@ -59,7 +58,7 @@ Interests:
 
 ### Links
 - Website → https://parthiv.me
-- GitHub → https://github.com/YOUR_USERNAME
+- GitHub → https://github.com/parthivsaikia
 
 ---
 
