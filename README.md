@@ -1,19 +1,15 @@
----
+```txt
 ┌──────────────────────────────────────────────┐
 │  Parthiv Saikia                             │
 │  backend systems • terminal interfaces      │
 │  local-first software                       │
 └──────────────────────────────────────────────┘
-
 $ uptime
-
 Building backend systems, terminal interfaces,
 and local-first software using Go and Zig.
-
 Currently building:
 → Enmasec
   local-first TUI password manager
-
 Interests:
 → Linux
 → distributed systems
@@ -35,7 +31,6 @@ Interests:
 ---
 
 ### Current
-
 - Building **Enmasec**, a local-first TUI password manager
 - Exploring distributed systems and infrastructure tooling
 - Experimenting with terminal UI design and HTMX
@@ -43,12 +38,11 @@ Interests:
 ---
 
 ### Selected Work
-
 - **Enmasec**  
   Local-first password manager built with Go and Bubble Tea
-
 - **Copacetic Arch Linux support**  
   Added Arch Linux support to Copacetic
+- Various terminal tooling and infrastructure experiments
 
 ---
 
@@ -64,7 +58,6 @@ Interests:
 ---
 
 ### Links
-
 - Website → https://parthiv.me
 - GitHub → https://github.com/YOUR_USERNAME
 
@@ -73,4 +66,3 @@ Interests:
 ```txt
 One bug at a time.
 ```
----
