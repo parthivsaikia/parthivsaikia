@@ -65,3 +65,4 @@ Interests:
 ```txt
 One bug at a time.
 ```
+[![PARTHIV PRATIM SAIKIA profile views](https://u8views.com/api/v1/github/profiles/142080852/views/day-week-month-total-count.svg)](https://u8views.com/github/parthivsaikia)
